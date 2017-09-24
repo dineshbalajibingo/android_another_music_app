@@ -14,14 +14,28 @@
         android:fitsSystemWindows="true"
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="0dp" />
+
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/text_buy"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_weight="1"
+        android:layout_marginBottom="@dimen/layout_bottom"
         android:text="@string/buy"
         android:textSize="@dimen/text_size"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/now_playing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go To Now Playing" />
+
+    <Button
+        android:id="@+id/edit_user_profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go To User Profile" />
+
 </LinearLayout>

@@ -16,7 +16,7 @@
         android:background="@color/toolbar_color"
         android:fitsSystemWindows="true" />
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/text_home"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/landing_page"

@@ -5,4 +5,11 @@
     <string name="playlist_desc">This gives the user saved songs in the saved playlist the user have saved in the folders</string>
     <string name="your_desc">Here user can change his personnel preferences like profile photo, passwords, and also he can see how many followers and how many prfollowers and how many profile users he is following</string>
     <string name="buy">Here User can buy songs. Payments will be done through Android Pay API. If we want to use any external payments like Paypay, we will be using Android Mobile Payment Library</string>
+
+
+    <string name="go_now_playing">Go To Now Playing</string>
+    <string name="go_to_user_profile">Go To User Profile </string>
+    <string name="go_to_buy">Buy this Song</string>
+    <string name="go_to_playlist">Go To My Playlist</string>
+    <string name="go_home">Go To Home</string>
 </resources>
