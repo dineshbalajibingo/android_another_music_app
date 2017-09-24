@@ -24,13 +24,11 @@
         android:textStyle="bold"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="0dp" />
-
     <Button
         android:id="@+id/now_playing"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Go To Now Playing" />
-
     <Button
         android:id="@+id/view_my_playlist"
         android:layout_width="match_parent"

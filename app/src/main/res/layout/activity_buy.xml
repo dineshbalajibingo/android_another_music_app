@@ -14,7 +14,6 @@
         android:fitsSystemWindows="true"
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="0dp" />
-
     <TextView
         android:id="@+id/text_buy"
         android:layout_width="wrap_content"
@@ -25,17 +24,14 @@
         android:textStyle="bold"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="0dp" />
-
     <Button
         android:id="@+id/now_playing"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Go To Now Playing" />
-
     <Button
         android:id="@+id/edit_user_profile"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Go To User Profile" />
-
 </LinearLayout>

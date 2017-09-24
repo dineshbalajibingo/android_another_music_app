@@ -24,13 +24,11 @@
         android:textStyle="bold"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="0dp" />
-
     <Button
         android:id="@+id/go_home"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/go_home" />
-
     <Button
         android:id="@+id/now_playing"
         android:layout_width="match_parent"

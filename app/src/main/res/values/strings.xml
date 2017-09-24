@@ -1,12 +1,10 @@
 <resources>
     <string name="app_name">MyMusicApp</string>
-    <string name="current_music">This fragment gives the user the song he is currently listening to. He can pause, play and forward or select tracks here</string>
-    <string name="landing_page">User lands here and he can select the option he wishes from here</string>
-    <string name="playlist_desc">This gives the user saved songs in the saved playlist the user have saved in the folders</string>
-    <string name="your_desc">Here user can change his personnel preferences like profile photo, passwords, and also he can see how many followers and how many prfollowers and how many profile users he is following</string>
-    <string name="buy">Here User can buy songs. Payments will be done through Android Pay API. If we want to use any external payments like Paypay, we will be using Android Mobile Payment Library</string>
-
-
+    <string name="current_music">NOW PLAYING \n This activity gives the user the song he is currently listening to. He can pause, play and forward or select tracks here. Android Media player API will be utilized to complete this page set up</string>
+    <string name="landing_page">MAIN ACTIVITY \n User lands here and he can select the option he wishes from here</string>
+    <string name="playlist_desc">USER PLAYLIST \n This gives the user saved songs in the saved playlist the user have saved in the folders. Collections API and Array adapters will be used here to display albums</string>
+    <string name="your_desc">USER PROFILE \n Here user can change his personnel preferences like profile photo, passwords, and also he can see how many followers and how many followers etc. An API call will be made to update user preference in data base</string>
+    <string name="buy">BUY ACTIVITY \n Here User can buy songs. Payments will be done through Android Pay API. If we want to use any external payments like Paypay, we will be using Android Mobile Payment Library</string>
     <string name="go_now_playing">Go To Now Playing</string>
     <string name="go_to_user_profile">Go To User Profile </string>
     <string name="go_to_buy">Buy this Song</string>
